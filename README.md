@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @koldyn2193
-- 👀 I’m interested in cyber security, CTF, pentesting, ethical hacking.
+- 👋 Hi, I’m Tarassov Nikita
+- 👀 I’m interested in cyber security, coding, CTFs, pentesting, ethical hacking.
 - 🌱 I’m currently learning Open Stack pentesting path, cisco security, CVEs and vulnerability analysis.
-- 💞️ I’m looking to collaborate on CTF, pentesting and ethical hacking traineeship.
+- 💞️ I’m looking to collaborate on CTFs, pentesting and ethical hacking.
+- Trying to create local quiz game server for friends.
 - 📫 How to reach me telegram @koldyn2193
 
 <!---
