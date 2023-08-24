@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security, coding, CTFs, pentesting, ethical hacking.
 - 🌱 I’m currently learning Open Stack pentesting path, cisco security, CVEs and vulnerability analysis.
 - 💞️ I’m looking to collaborate on CTFs, pentesting and ethical hacking.
-- Trying to create local quiz game server for friends.
+- Currently filling my GitHub with projects that I created and exercises that I solved.
 - 📫 How to reach me telegram @koldyn2193
 
 <!---
